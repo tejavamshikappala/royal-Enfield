@@ -6,12 +6,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Lato&family=Merriweather:wght@300&family=Poppins:wght@200&family=Tilt+Prism&display=swap');
 
 *{
-    margin:0px;
-    padding:0px;
+     margin:0px ! important; 
+    padding:0px ! important;
     box-sizing: border-box;
 }
 
 html,body{
+      margin:0px ! important; 
+    padding:0px ! important;
     width: 100%;
     height:100%;
    
