@@ -796,7 +796,7 @@ details>div>p {
     }
 }
 
-@media screen and (max-width:400px) {
+/*@media screen and (max-width:400px) {
     .header-content {
         overflow: auto;
     }
@@ -833,4 +833,4 @@ details>div>p {
     }
 
 
-}
+}*/
