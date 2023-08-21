@@ -57,7 +57,11 @@ function loco() {
         mobile:{
             smooth:true,
             breakpoint:0
-        }
+        },
+        tablet:{
+        smooth:true,
+            breakpoint:0
+    }
 
     });
     // each time Locomotive Scroll updates, tell ScrollTrigger to update too (sync positioning)
